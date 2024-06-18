@@ -2,10 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: catedarl.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: En el centro del parque encontramos un Monumento a Bernardo Valdivieso: Situado en el parque central de la ciudad de Loja en honor al gran benefactor de la educación lojana, Bernardo Valdivieso, quien se preocupó por la educación de la niñez y juventud, luchó tenazmente en defensa de los principios religiosos y morales.
 ---
