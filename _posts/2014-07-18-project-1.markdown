@@ -7,6 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: El Parque Jipiro es un espacio recreacional que se encuentra localizado en la provincia de Loja. Este parque también es conocido con el nombre de Parque de la Universidad Cultural a causa de que en aquel se encuentran réplicas de las más importantes manifestaciones culturales del mundo.
-Entre las réplicas que presenta este parque del Ecuador, se encuentran la réplica de la Catedral de San Basilio, cuya original se sitúa en Moscú. Esta construcción en el parque, cuenta con dos resbaladeras  que la hacen atractiva para los niños. 
+description: El Parque Jipiro es un espacio recreacional que se encuentra localizado en la provincia de Loja. Este parque también es conocido con el nombre de Parque de la Universidad Cultural a causa de que en aquel se encuentran réplicas de las más importantes manifestaciones culturales del mundo.Entre las réplicas que presenta este parque del Ecuador, se encuentran la réplica de la Catedral de San Basilio, cuya original se sitúa en Moscú. Esta construcción en el parque, cuenta con dos resbaladeras  que la hacen atractiva para los niños. 
 ---
