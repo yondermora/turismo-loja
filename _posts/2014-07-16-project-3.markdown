@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: En el centro del parque encontramos un Monumento a Bernardo Valdivieso: Situado en el parque central de la ciudad de Loja en honor al gran benefactor de la educacion lojana, Bernardo Valdivieso, quien se preocupo por la educación de la niñez y juventud, lucho tenazmente en defensa de los principios religiosos y morales.
+description: En el centro del parque encontramos un Monumento a Bernardo Valdivieso: Situado en el parque central de la ciudad de Loja en honor al gran benefactor de la educacion lojana, Bernardo Valdivieso, quien se preocupo por la educacion de la niñez y juventud, lucho tenazmente en defensa de los principios religiosos y morales.
 ---
